@@ -70,7 +70,7 @@
 
      <div class="carousel-inner">
        <div class="item active">
-         <img src="images/our_img_1.jpg" class="img-responsive" alt="">
+         <img src="images/our_img_1.jpg" class="home_banner_img" alt="" >
          <div class="carousel-caption">
          <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">
            <div class="col-md-4">
@@ -81,7 +81,7 @@
          </div>
 
          <div class="item">
-         <img src="images/our_img_2.jpg" class="img-responsive" alt="">
+         <img src="images/our_img_2.jpg" class="home_banner_img" alt="">
          <div class="carousel-caption">
          <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">
            <div class="col-md-4">
@@ -92,7 +92,7 @@
 
          </div>
          <div class="item">
-         <img src="images/our_img_3.jpg" class="img-responsive" alt="">
+         <img src="images/our_img_3.jpg" class="home_banner_img" alt="">
          <div class="carousel-caption">
          <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">
            <div class="col-md-4">
@@ -103,7 +103,7 @@
          </div>
 
          <div class="item">
-         <img src="images/our_img_4.jpg" class="img-responsive" alt="">
+         <img src="images/our_img_4.jpg" class="home_banner_img" alt="">
          <div class="carousel-caption">
          <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">
            <div class="col-md-4">
@@ -114,7 +114,7 @@
          </div>
 
          <div class="item">
-         <img src="images/our_img_5.jpg" class="img-responsive" alt="">
+         <img src="images/our_img_5.jpg" class="home_banner_img" alt="">
          <div class="carousel-caption">
          <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">
            <div class="col-md-4">
@@ -125,7 +125,7 @@
          </div>
 
          <div class="item">
-         <img src="images/our_img_6.jpg" class="img-responsive" alt="">
+         <img src="images/our_img_6.jpg" class="home_banner_img" alt="">
          <div class="carousel-caption">
          <div class="wow fadeInUp" data-wow-offset="0" data-wow-delay="0.3s">
            <div class="col-md-4">
