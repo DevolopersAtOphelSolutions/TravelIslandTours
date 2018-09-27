@@ -126,64 +126,69 @@
 							<h1 class="wow bounceInUp" data-wow-offset="0" data-wow-delay="0.2s">BOOK YOUR EXPERIENCE</h1>
 							<div class="row">
 								<div class="col-md-12 ">
-										<div class="col-sm-4">
-											<div class="dropdown">
-												 <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Applications<span class="caret"></span></button>
-												 <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
-												 <li role="presentation">
-													 <a role="menuitem" tabindex="-1" href="#">My Apllications</a>
-											 	</li>
-												 <li role="presentation">
-													 <a role="menuitem" tabindex="-1" href="#">Staff Board</a>
-											 	</li>
-												 <li role="presentation">
-													 <a role="menuitem" tabindex="-1" href="#">Appl</a>
-												 </li>
-												 </ul>
-												 </div>
-										</div>
-										<div class="col-sm-4">
-											<div class="card">
-												<div class="dropdown">
-													 <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Applications<span class="caret"></span></button>
-													 <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
-													 <li role="presentation">
-														 <a role="menuitem" tabindex="-1" href="#">My Apllications</a>
-												 	</li>
-													 <li role="presentation">
-														 <a role="menuitem" tabindex="-1" href="#">Staff Board</a>
-												 	</li>
-													 <li role="presentation">
-														 <a role="menuitem" tabindex="-1" href="#">Appl</a>
-													 </li>
-													 </ul>
-													 </div>
-											</div>
-										</div>
-										<div class="col-sm-4">
-										<div class="card">
-											<div class="dropdown">
-												 <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Applications<span class="caret"></span></button>
-												 <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
-												 <li role="presentation">
-													 <a role="menuitem" tabindex="-1" href="#">My Apllications</a>
-												</li>
-												 <li role="presentation">
-													 <a role="menuitem" tabindex="-1" href="#">Staff Board</a>
-												</li>
-												 <li role="presentation">
-													 <a role="menuitem" tabindex="-1" href="#">Appl</a>
-												 </li>
-												 </ul>
-												 </div>
-										</div>
-									</div>
+										
 								</div>
 							</div>
 						</div>
 					</div>
 					<div id="sub_hero">
-						<h1>hello world</h1>
+						<div class="back_sub col-md-4">
+							<div class="text-center">
+								<div class="dropdown" style="width:100%;">
+									 <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Applications<span class="caret"></span></button>
+									 <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+									 <li role="presentation">
+										 <a role="menuitem" tabindex="-1" href="#">My Apllications</a>
+									</li>
+									 <li role="presentation">
+										 <a role="menuitem" tabindex="-1" href="#">Staff Board</a>
+									</li>
+									 <li role="presentation">
+										 <a role="menuitem" tabindex="-1" href="#">Appl</a>
+									 </li>
+									 </ul>
+									 </div>
+								</div>
+
+						</div>
+						<div class= "back_sub card col-md-4">
+							<div class="text-center">
+								<div class="dropdown" style="width:100%;">
+									 <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Applications<span class="caret"></span></button>
+									 <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+									 <li role="presentation">
+										 <a role="menuitem" tabindex="-1" href="#">My Apllications</a>
+									</li>
+									 <li role="presentation">
+										 <a role="menuitem" tabindex="-1" href="#">Staff Board</a>
+									</li>
+									 <li role="presentation">
+										 <a role="menuitem" tabindex="-1" href="#">Appl</a>
+									 </li>
+									 </ul>
+									 </div>
+								</div>
+
+						</div>
+						<div class="back_sub col-md-4">
+							<div class="text-center">
+								<div class="dropdown" style="width:100%;">
+									 <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Applications<span class="caret"></span></button>
+									 <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+									 <li role="presentation">
+										 <a role="menuitem" tabindex="-1" href="#">My Apllications</a>
+									</li>
+									 <li role="presentation">
+										 <a role="menuitem" tabindex="-1" href="#">Staff Board</a>
+									</li>
+									 <li role="presentation">
+										 <a role="menuitem" tabindex="-1" href="#">Appl</a>
+									 </li>
+									 </ul>
+									 </div>
+								</div>
+
+						</div>
 					</div>
 
 				</section>
