@@ -6,7 +6,7 @@
     height: 100vh;
   }
 
-  #hero{
+  #bookExprience{
     width: 100vw;
     height: 100vh;
 /*    color: red;*/
@@ -17,6 +17,13 @@
     width: 100vw;
     height: 100vh;
     color: white;
+
+  }
+
+  #dayTours{
+    width: 100vw;
+  /*  height: 100vh;*/
+    background-color: #1f1f1f;
 
   }
   #sub_hero{

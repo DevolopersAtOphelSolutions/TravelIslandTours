@@ -120,13 +120,13 @@
        	 					</div>
 
 
-				<section id="hero" class="">
+				<section id="bookExprience" class="">
 					<div class="container">
 						<div class="text-center">
 							<h1 class="wow bounceInUp" data-wow-offset="0" data-wow-delay="0.2s">BOOK YOUR EXPERIENCE</h1>
 							<div class="row">
 								<div class="col-md-12 ">
-										
+
 								</div>
 							</div>
 						</div>
@@ -193,16 +193,8 @@
 
 				</section>
 
-				<section id="about" class="">
-					<div class="">
-						<div class="row">
-							<div class="col-md-12">
-								<div class="text-center">
-									<h1 class="wow bounceInUp" data-wow-offset="0" data-wow-delay="0.5s">Hello</h1>
-								</div>
-							</div>
-						</div>
-					</div>
+				<section id="dayTours" class="">
+					<?php 	include('dayTours.php'); ?>
 				</section>
 
 
