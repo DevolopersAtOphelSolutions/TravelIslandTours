@@ -205,7 +205,9 @@
    </div>
    <!-- /#wrapper -->
 
-
+	 <section id="dayTours" class="">
+			<?php 	include('includes/footer.php'); ?>
+		</section>
 
 
  <script>wow = new WOW({}).init();</script>
