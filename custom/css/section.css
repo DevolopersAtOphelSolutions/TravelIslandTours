@@ -20,16 +20,13 @@
 
   }
 
-  #dayTours{
+  .dayTours{
     width: 100vw;
   /*  height: 100vh;*/
     background-color: #1f1f1f;
 
   }
-  #sub_hero{
-    margin-left: 5%;
-    margin-right: 5%;
-  }
+
   .back_sub{
     margin-top: 20px;
     border: black solid 1px;
