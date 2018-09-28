@@ -50,19 +50,19 @@
         <div class="col-md-6">
 					<div class="row">
 						<div class="col-sm-2">
-							<a href="#" class="fb tool-tip" title="Facebook"><i class="fa fa-facebook"></i></a>
+							<a href="#" class="fb tool-tip" title="Facebook"><i class="fa fama fa-facebook"></i></a>
 						</div>
 						<div class="col-sm-2">
-							<a href="#" class="twitter tool-tip" title="Twitter"><i class="fa fa-twitter"></i></a>
+							<a href="#" class="twitter tool-tip" title="Twitter"><i class="fa fama fa-twitter"></i></a>
 						</div>
 						<div class="col-sm-2">
-							<a href="#" class="gplus tool-tip" title="Google Plus"><i class="fa fa-google-plus"></i></a>
+							<a href="#" class="gplus tool-tip" title="Google Plus"><i class="fa fama fa-google-plus"></i></a>
 						</div>
 						<div class="col-sm-2">
-							<a href="#" class="linkedin tool-tip" title="Linkedin"><i class="fa fa-linkedin"></i></a>
+							<a href="#" class="linkedin tool-tip" title="Linkedin"><i class="fa fama fa-linkedin"></i></a>
 						</div>
 						<div class="col-sm-2">
-								<a href="#" class="ytube tool-tip" title="You Tube"><i class="fa fa-youtube-play"></i></a>
+								<a href="#" class="ytube tool-tip" title="You Tube"><i class="fa fama fa-youtube-play"></i></a>
 						 </div>
 					</div>
       </div>

@@ -4,6 +4,8 @@
 .home_banner_img {
     width: 100vw;
     height: 100vh;
+    margin: 0;
+    padding: 0;
   }
 
   #bookExprience{
@@ -16,9 +18,22 @@
   #about{
     width: 100vw;
     height: 100vh;
-    color: white;
+    color: black;
+    padding-top: 20px;
+    border-top: 5px solid gray;
+    border-bottom: 5px solid gray;
+    margin-bottom: 10px;
 
   }
+
+
+  #about_us :hover {
+    opacity: 0.7;
+    border: 1px solid green;
+    padding: 10px;
+  }
+
+
 
   .dayTours{
     width: 100vw;
@@ -93,7 +108,7 @@ border: 1px solid #fff;
 	padding:30px;
 }
 /*  social media */
-.fa {
+ .fama {
   padding: 20px;
   font-size: 30px;
   width: 50px;
@@ -102,21 +117,21 @@ border: 1px solid #fff;
   margin: 5px 2px;
 }
 
-.fa:hover {
+footer .fa:hover {
     opacity: 0.7;
 }
 
-.fa-facebook {
+footer .fa-facebook {
 /*  background: #3B5998;*/
   color: white;
 }
 
-.fa-twitter {
+footer .fa-twitter {
 /**  background: #55ACEE;*/
   color: white;
 }
 
-.fa-google {
+footer .fa-google {
 /*  background: #dd4b39;*/
   color: white;
 }
