@@ -193,7 +193,8 @@
 
 				</section>
 
-				<section id="dayTours" class="">
+				<section id="dayTours" class="text-center">
+					<h1 class="wow bounceInUp" data-wow-offset="0" data-wow-delay="0.2s">DAY TOURS</h1>
 					<?php 	include('dayTours.php'); ?>
 				</section>
 
