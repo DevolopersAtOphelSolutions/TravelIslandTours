@@ -1,5 +1,5 @@
 
-  <footer>
+  <footer style="margin-top:20px;">
     <div class="container">
       <div class="col-md-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
         <h4>About Us</h4>

@@ -193,6 +193,12 @@
 
 				</section>
 
+
+				<section id="hero" class="parallax text-center">
+					<h1 class="wow bounceInUp" data-wow-offset="0" data-wow-delay="0.2s">DAY TOURS</h1>
+
+				</section>
+
 				<section id="dayTours" class="text-center">
 
 					<h1 class="wow bounceInUp" data-wow-offset="0" data-wow-delay="0.2s">DAY TOURS</h1>
@@ -233,6 +239,32 @@
 
 				</section>
 
+				<section id="overView" class="text-center"style="height:500px;">
+
+					<div class=" col-md-2" id="myCol1">
+						<div type="button" onclick="myFun()" id="myq1" class=" myc my">
+
+						</div>
+						<div id="myq2" class=" myc">
+
+						</div>
+						<div id="myq3" class="myc">
+
+						</div>
+						<div id="myq4" class="myc ">
+
+						</div>
+						<div id="myq5" class="myc">
+
+						</div>
+					</div>
+					<div class="col-md-6" id="msg">
+
+					</div>
+
+
+				</section>
+				<br>
 				<section id="footer" class="">
 		 			<?php 	include('includes/footer.php'); ?>
 		 		</section>
@@ -250,6 +282,57 @@
 
  <script>wow = new WOW({}).init();</script>
 
+ <script>
+$(document).ready(function(){
+var element1 = document.getElementById("myq1");
+var element2 = document.getElementById("myq2");
+var element3 = document.getElementById("myq3");
+var element4 = document.getElementById("myq4");
+var element5 = document.getElementById("myq5");
+$(element1).hover(function(){
+$(element1).addClass("myhover");
+var dd = document.getElementById("msg");
+$(dd).css("border", "solid black 5px");
+}, function(){
+$(element1).removeClass("myhover");
+var dd = document.getElementById("msg");
+$(dd).css("border", "solid white 0");
+});
 
+$(element2).hover(function(){
+$(element2).addClass("myhover");
+}, function(){
+$(element2).removeClass("myhover");
+});
+
+$(element3).hover(function(){
+$(element3).addClass("myhover");
+}, function(){
+$(element3).removeClass("myhover");
+});
+
+$(element4).hover(function(){
+$(element4).addClass("myhover");
+}, function(){
+$(element4).removeClass("myhover");
+});
+
+$(element5).hover(function(){
+$(element5).addClass("myhover");
+}, function(){
+$(element5).removeClass("myhover");
+});
+
+});
+
+function myFun(){
+	//alert("hello");
+	var d = document.getElementById("msg");
+document.getElementById("msg").innerHTML = "New text!";
+$(d).css("border", "solid red 2px");
+    //    $("#msg").html("Hide Author Details")
+}
+
+</script>
 
    <script src="custom/js/navigation.js"></script>
