@@ -43,7 +43,7 @@
 	<script src="assests/jquery/jquery.min.js"></script>
   <!-- jquery ui -->
   <link rel="stylesheet" href="assests/jquery-ui/jquery-ui.min.css">
-  <script src="assests/jquery-ui/jquery-ui.min.js"></script>
+  <script src="assests/jquery/jquery-ui.min.js"></script>
 
   <!-- bootstrap js -->
 	<script src="assests/bootstrap/js/bootstrap.min.js"></script>
