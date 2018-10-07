@@ -47,6 +47,7 @@
 
   <!-- bootstrap js -->
 	<script src="assests/bootstrap/js/bootstrap.min.js"></script>
+	  <script src="assests/jquery/jquery-1.11.1.min.js"></script>
 
 	<script src="assests/bootstrap/js/bootstrap.js"></script>
 
