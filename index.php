@@ -6,7 +6,7 @@ include('includes/header.php');
        <div class="overlay"></div>
        <!-- Sidebar -->
        <nav class="navbar navbar-inverse navbar-fixed-top" id="sidebar-wrapper" role="navigation">
-           <ul class="nav sidebar-nav">
+           <ul class="nav sidebar-nav"> 
                <li class="sidebar-brand">
                    <a href="#">
                       Logo
@@ -46,6 +46,9 @@ include('includes/header.php');
                </li>
            </ul>
        </nav>
+
+
+
 
 
              <button type="button" class="hamburger is-closed" data-toggle="offcanvas">
@@ -120,25 +123,27 @@ include('includes/header.php');
        	 					</div>
 
 
+
+
+
 				<section id="bookExprience" class="">
 					<div class="container">
 						<div class="text-center">
 							<h1 class="wow bounceInUp" data-wow-offset="0" data-wow-delay="0.2s">BOOK YOUR EXPERIENCE</h1>
 							<div class="row">
 								<div class="col-md-12 ">
-
 								</div>
 							</div>
 						</div>
 					</div>
 					<div id="sub_hero">
 						<div class="back_sub col-md-4">
-							<div class="text-center">
+							<div class="text-center" style="background-color:green;">
 								<div class="dropdown" style="width:100%;">
 									 <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Applications<span class="caret"></span></button>
-									 <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
+									 <ul class="dropdown-menu" role="menu" aria-labelledby="menu1" style="width:100%, background-color: green;">
 									 <li role="presentation">
-										 <a role="menuitem" tabindex="-1" href="#">My Apllications</a>
+										 <a role="menuitem" tabindex="-1" href="#" style="width:100%, background-color: green;">My Apllications</a>
 									</li>
 									 <li role="presentation">
 										 <a role="menuitem" tabindex="-1" href="#">Staff Board</a>
@@ -149,7 +154,6 @@ include('includes/header.php');
 									 </ul>
 									 </div>
 								</div>
-
 						</div>
 						<div class= "back_sub card col-md-4">
 							<div class="text-center">

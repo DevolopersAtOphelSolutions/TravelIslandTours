@@ -12,7 +12,7 @@ $(document).ready(function () {
       if (isClosed == true) {
         overlay.hide();
         trigger.removeClass('is-open');
-        trigger.addClass('is-closed');
+        trigger.addClass('is-closed'); 
         isClosed = false;
       } else {
         overlay.show();
