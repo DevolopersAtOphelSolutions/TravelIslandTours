@@ -136,6 +136,7 @@ include('includes/header.php');
 							</div>
 						</div>
 					</div>
+<<<<<<< HEAD
 					<div id="sub_hero">
 						<div class="back_sub col-md-4">
 							<div class="text-center" style="background-color:green;">
@@ -194,14 +195,12 @@ include('includes/header.php');
 
 						</div>
 					</div>
+=======
+>>>>>>> 892aa3708f318a517a76919a2ce11703f8da67a1
 
 				</section>
 
 
-				<section id="hero" class="parallax text-center">
-					<h1 class="wow bounceInUp" data-wow-offset="0" data-wow-delay="0.2s">DAY TOURS</h1>
-
-				</section>
 
 				<section id="dayTours" class="text-center">
 
