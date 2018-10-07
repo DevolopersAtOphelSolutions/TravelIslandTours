@@ -131,73 +131,10 @@ include('includes/header.php');
 							</div>
 						</div>
 					</div>
-					<div id="sub_hero">
-						<div class="back_sub col-md-4">
-							<div class="text-center">
-								<div class="dropdown" style="width:100%;">
-									 <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Applications<span class="caret"></span></button>
-									 <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
-									 <li role="presentation">
-										 <a role="menuitem" tabindex="-1" href="#">My Apllications</a>
-									</li>
-									 <li role="presentation">
-										 <a role="menuitem" tabindex="-1" href="#">Staff Board</a>
-									</li>
-									 <li role="presentation">
-										 <a role="menuitem" tabindex="-1" href="#">Appl</a>
-									 </li>
-									 </ul>
-									 </div>
-								</div>
-
-						</div>
-						<div class= "back_sub card col-md-4">
-							<div class="text-center">
-								<div class="dropdown" style="width:100%;">
-									 <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Applications<span class="caret"></span></button>
-									 <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
-									 <li role="presentation">
-										 <a role="menuitem" tabindex="-1" href="#">My Apllications</a>
-									</li>
-									 <li role="presentation">
-										 <a role="menuitem" tabindex="-1" href="#">Staff Board</a>
-									</li>
-									 <li role="presentation">
-										 <a role="menuitem" tabindex="-1" href="#">Appl</a>
-									 </li>
-									 </ul>
-									 </div>
-								</div>
-
-						</div>
-						<div class="back_sub col-md-4">
-							<div class="text-center">
-								<div class="dropdown" style="width:100%;">
-									 <button class="btn btn-default dropdown-toggle" type="button" id="menu1" data-toggle="dropdown">Applications<span class="caret"></span></button>
-									 <ul class="dropdown-menu" role="menu" aria-labelledby="menu1">
-									 <li role="presentation">
-										 <a role="menuitem" tabindex="-1" href="#">My Apllications</a>
-									</li>
-									 <li role="presentation">
-										 <a role="menuitem" tabindex="-1" href="#">Staff Board</a>
-									</li>
-									 <li role="presentation">
-										 <a role="menuitem" tabindex="-1" href="#">Appl</a>
-									 </li>
-									 </ul>
-									 </div>
-								</div>
-
-						</div>
-					</div>
 
 				</section>
 
 
-				<section id="hero" class="parallax text-center">
-					<h1 class="wow bounceInUp" data-wow-offset="0" data-wow-delay="0.2s">DAY TOURS</h1>
-
-				</section>
 
 				<section id="dayTours" class="text-center">
 
