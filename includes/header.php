@@ -29,7 +29,7 @@
 
   <!-- custom css -->
 
-  <link rel="stylesheet" href="custom/css/theam.css">
+  <!-- <link rel="stylesheet" href="custom/css/theam.css"> -->
   <link rel="stylesheet" href="custom/css/custom.css">
   <link rel="stylesheet" href="custom/css/section.css">
 

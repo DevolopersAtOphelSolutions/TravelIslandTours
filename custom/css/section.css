@@ -277,3 +277,25 @@ footer .fa-google {
   background: #ff6600;
   color: white;
 }
+
+
+
+
+.section-gap {
+  padding: 120px 0;
+}
+
+.pb-40 {
+  padding-bottom: 40px;
+}
+
+.text-center {
+  text-align: center !important;
+  background-color: green;
+}
+
+.modfiyMe {
+  width: 100px;
+  height: 200px;
+  background-color: green;
+}
